@@ -1,0 +1,24 @@
+.hero-section {
+	padding-top: 150px;
+    max-width: 637px;
+    margin: 0 auto;
+}
+
+.paragraph{
+	padding-top: 170px;
+}
+
+.btn {
+	background-color: #C271FF;
+	border: none;
+}
+
+.btn:hover, .btn:active {
+	background-color: #C271FF;
+    opacity: 0.9;
+}
+
+mark {
+    color:#C271FF;
+    
+}
